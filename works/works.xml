@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-stylesheet href="works.xsl" type="text/xsl" ?><?jaxfront version=2.80;time=2014-02-26 21:06:41.447;xui=works.xui;xsd=works.xsd;nsMapping=%KEYhttp://www.jaxfront.com/xui%VAL%KEYhttp://www.w3.org/2001/XMLSchema%VALxsd%KEYhttp://www.w3.org/2001/XMLSchema-instance%VALxsi?><author xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="works.xsd">
+       <works>
+              <work>
+                     <type>book</type>
+                     <title>The Ant King and Other Stories</title>
+                     <description>full-length short story collection</description>
+                     <url>http://theantking.com</url>
+                     <seller>
+                            <venue>
+                                   <name>Amazon</name>
+                                   <url>http://www.amazon.com/Ant-King-Stories-Benjamin-Rosenbaum/dp/1931520526/benjaminrosenbau/</url>
+                            </venue>
+                     </seller>
+                     <seller>
+                            <venue>
+                                   <name>Powell's</name>
+                                   <url>http://www.powells.com/biblio?isbn=978-1931520522</url>
+                            </venue>
+                     </seller>
+                     <seller>
+                            <venue>
+                                   <name>Borders</name>
+                                   <url>http://www.bordersstores.com/search/title_detail.jsp?id=57604512</url>
+                            </venue>
+                     </seller>
+                     <publication>
+                            <venue>
+                                   <name>Small Beer Press</name>
+                                   <url>http://lcrw.net</url>
+                            </venue>
+                            <date>August 5, 2008</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <recognition>
+                            <venue>
+                                   <name>LA Times 2008 Favorite SF Books</name>
+                                   <url>http://www.latimes.com/features/books/la-ca-favoritebooks-sciencefict-2008dec07,0,3049326.story</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>WFMU Top 10+ Books of 2008</name>
+                                   <url>http://blog.wfmu.org/freeform/2008/12/inflatable-squi.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Publisher's Weekly</name>
+                            </venue>
+                            <url>http://www.publishersweekly.com/article/CA6571633.html#SF/Fantasy/Horror</url>
+                            <note>(scroll down a bit)</note>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Kirkus</name>
+                            </venue>
+                            <url>http://www.kirkusreviews.com/kirkusreviews/headlines/fiction_display.jsp?vnu_content_id=1003821558</url>
+                            <note>"An imaginative debut collection." (subscription required to view)</note>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Bibliophile Stalker</name>
+                            </venue>
+                            <url>http://charles-tan.blogspot.com/2008/05/book-review-ant-king-and-other-stories.html</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>LA Times</name>
+                            </venue>
+                            <url>http://www.latimes.com/features/books/la-caw-astral-weeks2-2008nov02,1,5009629.story</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>The Washington Post</name>
+                            </venue>
+                            <url>http://www.washingtonpost.com/wp-dyn/content/article/2008/10/09/AR2008100902537.html?sub=AR</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>The Boston Phoenix</name>
+                            </venue>
+                            <url>http://thephoenix.com/Boston/Arts/66915-Out-of-this-world/</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>The Weekly Dig</name>
+                            </venue>
+                            <url>http://www.weeklydig.com/arts-entertainment/words/200805/perfect-form</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Fantasy Book Spot</name>
+                            </venue>
+                            <url>http://www.bookspotcentral.com/2008/08/book-review-the-ant-king-and-other-stories/</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>SF Revu</name>
+                            </venue>
+                            <url>http://www.sfrevu.com/php/Review-id.php?id=6787</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>The Agony Column</name>
+                            </venue>
+                            <url>http://www.trashotron.com/agony/news/2008/05-19-08.htm#052208</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Genre-Go-Round</name>
+                            </venue>
+                            <url>http://genregoroundreviews.blogspot.com/2008/07/ant-king-and-other-stories-benjamin.html</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>BoomTron</name>
+                                   <url>http://www.boomtron.com</url>
+                            </venue>
+                            <url>http://www.boomtron.com/2008/08/book-review-the-ant-king-and-other-stories/</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The First Gate of Logic</title>
+                     <publication>
+                            <venue>
+                                   <name>Stories For Chip, ed. Nisi Shawl &amp; Bill Campbell</name>
+                                   <url>http://www.amazon.com/Stories-Chip-Tribute-Samuel-Delany/dp/0990319172</url>
+                            </venue>
+                            <date><i>August 3, 2015</i></date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+
+              <work>
+                     <type>article</type>
+                     <title>Navigating Masculinity: A Roundtable</title>
+                     <collaborators>
+                            <venue>
+                                   <name>Mary Anne Mohanraj</name>
+                            </venue>
+                            <venue>
+                                   <name>Na'amen Tilahun</name>
+                            </venue>
+                            <venue>
+                                   <name>Elliott Mason</name>
+                            </venue>
+                            <venue>
+                                   <name>Jim C. Hines</name>
+                            </venue>
+                            <venue>
+                                   <name>Jed Hartman</name>
+                            </venue>
+                            <venue>
+                                   <name>David Moles</name>
+                            </venue>
+                            <venue>
+                                   <name>Michael Damian Thomas</name>
+                            </venue>
+                     </collaborators>
+                     <publication>
+                            <venue>
+                                   <name>The WisCon Chronicles, Vol.9: Intersections and Alliances, ed. Mary Anne Mohanraj</name>
+                                   <url>http://www.aqueductpress.com/books/978-1-61976-087-5.php</url>
+                            </venue>
+                            <date><i>June 1, 2015</i></date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Tractate Metim 28a</title>
+                     <publication>
+                            <venue>
+                                   <name>Jews vs. Zombies, ed. Rebecca Levine &amp; Lavie Tidhar</name>
+                                   <url>http://www.amazon.com/Jews-vs-Zombies-Rebecca-Levene-ebook/dp/B00TQT6L9K/</url>
+                            </venue>
+                            <date><i>March 19, 2015</i></date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Fift &amp; Shria</title>
+                     <publication>
+                            <venue>
+                                   <name>Solaris Rising 3, ed. Ian Whates.</name>
+                                   <url>http://www.powells.com/biblio/9781781082096</url>
+                            </venue>
+                            <date>August 14th, 2014</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Year's Best Fantasy and Science Fiction 2015, ed. Rich Horton</name>
+                                   <url>http://www.amazon.com/Years-Best-Science-Fiction-Fantasy/dp/1607014521</url>
+                            </venue>
+                            <date>June 11, 2015</date>
+                            <reprint>true</reprint>
+                     </publication>
+
+
+              </work><work>
+                     <type>poem</type>
+                     <title>The Way to Go</title>
+                     <description>four poems translated from the "Tao Te Ching" of Lao Tse</description>
+                     <publication>
+                            <venue>
+                                   <name>Cricket Magazine</name>
+                                   <url>http://www.cricketmagkids.com/new/february-2011</url>
+                            </venue>
+                            <date>February, 2011</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Feature Development for Social Networking</title>
+                     <url>http://www.tor.com/stories/2013/11/feature-development-for-social-networking</url>
+                     <publication>
+                            <venue>
+                                   <name>tor.com</name>
+                                   <url>http://www.tor.com</url>
+                            </venue>
+                            <date>November 13, 2013</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>book</type>
+                     <title>Anthroptic</title>
+                     <description>art book</description>
+                     <collaborators>
+                            <venue>
+                                   <name>Ethan Ham</name>
+                                   <url>http://ethanham.com</url>
+                            </venue>
+                     </collaborators>
+                     <url>http://thepresentgroup.com/info/?p=14</url>
+                     <publication>
+                            <venue>
+                                   <name>The Present Group</name>
+                                   <url>http://www.thepresentgroup.com/</url>
+                            </venue>
+                            <date>Spring 2007</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Anthroptic.org</name>
+                                   <url>http://www.anthroptic.org/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <otherPubInfo>: website of the &lt;a href="http://www.benjaminrosenbaum.com/blog/archives/2007_10.html#000547"&gt;PS122 gallery exhibition&lt;/a&gt;</otherPubInfo>
+                            <type>webExhibit</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>JavaMuseum</name>
+                                   <url>http://www.javamuseum.org/blog/?page_id=47</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <type>webExhibit</type>
+                     </publication>
+                     <recognition>
+                            <venue>
+                                   <name>acquired for the permanent collection of the Australian National Portrait Gallery</name>
+                                   <url>http://www.portrait.gov.au/site/exhibition.php</url>
+                            </venue>
+                            <type>other</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>The Present Group blog</name>
+                            </venue>
+                            <url>http://blog.thepresentgroup.com/2007/03/07/fear-the-robot-resistance-by-michael-betancourt</url>
+                     </review>       
+              </work>
+              <work>
+                     <type>book</type>
+                     <title>Other Cities</title>
+                     <description>collection of short-shorts</description>
+                     <url>http://www.lcrw.net/smallbeer/chapbooks/benjaminrosenbaum.htm</url>
+                     <publication>
+                            <venue>
+                                   <name>Small Beer Press</name>
+                            </venue>
+                            <date>2003</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Yoshio Kobayashi, , illus. by Hidenori Watanave</translator>
+                            <language>Japanese</language>
+                            <url>http://wtnv.jp/sfm/#200404</url>
+                            <publication>
+                                   <venue>
+                                          <name>Hayakawa SF</name>
+                                          <url>http://www.hayakawa-online.co.jp/</url>
+                                   </venue>
+                                   <date>June 2004</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Anca Merce &amp; Cristian Vicol</translator>
+                            <language>Romanian</language>
+                            <url>http://helionsf.eu/other-cities/</url>
+                            <translatedTitle>OTHER CITIES</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Helion</name>
+                                          <url>http://helionsf.eu/</url>
+                                   </venue>
+                                   <date>October 2013</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation><translation>
+                            <translator>Mariano Martin, illus. by Hidenori Watanave</translator>
+                            <language>Spanish</language>
+                            <url>http://benjaminrosenbaum.com/stories/RosenbaumCitiesES.pdf</url>
+                            <translatedTitle>Otras Ciudades</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Delirio</name>
+                                          <url>http://www.labibliotecadellaberinto.es/s/cc_images/cache_30951447.jpg?t=1432206905</url>
+                                   </venue>
+                                   <date>March 13, 2014</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Elsewhere</title>
+                     <url>http://strangehorizons.com/2012/20120618/elsewhere-f.shtml</url>
+                     <publication>
+                            <venue>
+                                   <name>Strange Horizons</name>
+                                   <url>http://strangehorizons.com</url>
+                            </venue>
+                            <date>18 June 2012</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Nilly</title>
+                     <url>http://dailysciencefiction.com/hither-and-yon/the-numbers-quartet/benjamin-rosenbaum/nilly</url>
+                     <publication>
+                            <venue>
+                                   <name>Daily Science Fiction</name>
+                                   <url>http://dailysciencefiction.com</url>
+                            </venue>
+                            <date>February 22nd, 2012</date>
+                            <reprint>false</reprint>
+                            <otherPubInfo> (part of the "Numbers Quartet" with Stephen Gaskell, Aliette de Bodard, and Nancy Fulda)</otherPubInfo>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Angry Child</title>
+                     <url>http://dailysciencefiction.com/hither-and-yon/the-numbers-quartet/benjamin-rosenbaum/angry-child</url>
+                     <publication>
+                            <venue>
+                                   <name>Daily Science Fiction</name>
+                                   <url>http://dailysciencefiction.com</url>
+                            </venue>
+                            <date>February 8th, 2012</date>
+                            <reprint>false</reprint>
+                            <otherPubInfo> (part of the "Numbers Quartet" with Stephen Gaskell, Aliette de Bodard, and Nancy Fulda)</otherPubInfo>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Things Exist By Imitation of Numbers</title>
+                     <url>http://dailysciencefiction.com/hither-and-yon/the-numbers-quartet/benjamin-rosenbaum/things-exist-by-imitation-of-numbers</url>
+                     <publication>
+                            <venue>
+                                   <name>Daily Science Fiction</name>
+                                   <url>http://dailysciencefiction.com/</url>
+                            </venue>
+                            <date> January 11th, 2012</date>
+                            <reprint>false</reprint>
+                            <otherPubInfo> (part of the "Numbers Quartet" with Stephen Gaskell, Aliette de Bodard, and Nancy Fulda)</otherPubInfo>
+                            <type>website</type>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Wife eye, wolf eye</title>
+                     <url>http://www.turbulence.org/Works/belles?0</url>
+                     <publication>
+                            <venue>
+                                   <name>les belles infideles</name>
+                                   <url>http://www.turbulence.org/Works/belles/</url>
+                            </venue>
+                            <date>2011</date>
+                            <reprint>false</reprint>
+                            <otherPubInfo> (a collaborative web installation with &lt;a href="http://ethanham.com"&gt;Ethan Ham&lt;/a&gt;)</otherPubInfo>
+                            <type>webExhibit</type>
+                     </publication>
+                     <translation>
+                            <translator>Sonia Quemener</translator>
+                            <language>French</language>
+                            <url>http://www.turbulence.org/Works/belles?1</url>
+                            <translatedTitle>Wifi Oui-Oui</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Takashi Ogawa</translator>
+                            <language>Japanese</language>
+                            <url>http://www.turbulence.org/Works/belles?6</url>
+                            <translatedTitle>&amp;#12527;&amp;#12452;&amp;#12501;&amp;#12539;&amp;#12450;&amp;#12452;&amp;#12289;&amp;#12454;&amp;#12523;&amp;#12501;&amp;#12539;&amp;#12450;&amp;#12452;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator> Natalia Pedrosa</translator>
+                            <language>Spanish</language>
+                            <url>http://www.turbulence.org/Works/belles?4</url>
+                            <translatedTitle>El ojo de la esposa, el ojo del lobo</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Hala Loulou</translator>
+                            <language>Arabic</language>
+                            <url>http://turbulence.org/Works/belles/?2</url>
+                            <translatedTitle>&amp;#1608;&amp;#1575;&amp;#1610; &amp;#1601;&amp;#1575;&amp;#1610;&amp;#1548; &amp;#1606;&amp;#1614;&amp;#1593;&amp;#1605; - &amp;#1606;&amp;#1614;&amp;#1593;&amp;#1605;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Wolfgang G&amp;#246;sweiner</translator>
+                            <language>German</language>
+                            <url>http://turbulence.org/Works/belles/?3</url>
+                            <translatedTitle>Von nun an W-Lan</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Sergio Sisneros</translator>
+                            <language>Russian</language>
+                            <url>http://turbulence.org/Works/belles/?5</url>
+                            <translatedTitle>&amp;#1043;&amp;#1083;&amp;#1072;&amp;#1079;&amp;#1072; &amp;#1078;&amp;#1077;&amp;#1085;&amp;#1099;. &amp;#1043;&amp;#1083;&amp;#1072;&amp;#1079;&amp;#1072; &amp;#1074;&amp;#1086;&amp;#1083;&amp;#1082;&amp;#1072;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>&amp;#21271;&amp;#20140;&amp;#34701;&amp;#35821;&amp;#22530;&amp;#25991;&amp;#21270;&amp;#21457;&amp;#23637;&amp;#26377;&amp;#38480;&amp;#20844;&amp;#21496;</translator>
+                            <language>Korean</language>
+                            <url>http://turbulence.org/Works/belles/?7</url>
+                            <translatedTitle>&amp;#50752;&amp;#51060;&amp;#54532;&amp;#183;&amp;#50500;&amp;#51060;, &amp;#50872;&amp;#54532;&amp;#183;&amp;#50500;&amp;#51060;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Durba Banerjee</translator>
+                            <language>Hindi</language>
+                            <url>http://turbulence.org/Works/belles/?8</url>
+                            <translatedTitle>&amp;#2346;&amp;#2340;&amp;#2381;&amp;#2344;&amp;#2368; &amp;#2325;&amp;#2368; &amp;#2310;&amp;#2306;&amp;#2326;, &amp;#2349;&amp;#2375;&amp;#2337;&amp;#2364;&amp;#2367;&amp;#2351;&amp;#2375; &amp;#2325;&amp;#2368; &amp;#2310;&amp;#2306;&amp;#2326;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>&amp;#21271;&amp;#20140;&amp;#34701;&amp;#35821;&amp;#22530;&amp;#25991;&amp;#21270;&amp;#21457;&amp;#23637;&amp;#26377;&amp;#38480;&amp;#20844;&amp;#21496;</translator>
+                            <language>Chinese</language>
+                            <url>http://turbulence.org/Works/belles/?9</url>
+                            <translatedTitle>&amp;#22971;&amp;#30524;&amp;#12289;&amp;#29436;&amp;#30524;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Franck Muller</translator>
+                            <language>French</language>
+                            <url>http://turbulence.org/Works/belles/?10</url>
+                            <translatedTitle>Wife-eye, Wolf-eye</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Mohammad Anwar Khan Qasmi </translator>
+                            <language>Urdu</language>
+                            <url>http://turbulence.org/Works/belles/?11</url>
+                            <translatedTitle>&amp;#1608;&amp;#1575; &amp;#1746; &amp;#1601;&amp;#1575;&amp;#1746; &amp;#1548; &amp;#1729;&amp;#1575;&amp;#1722; - &amp;#1729;&amp;#1575;&amp;#1722;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Joseph Harfouch</translator>
+                            <language>English</language>
+                            <url>http://turbulence.org/Works/belles/?12</url>
+                            <translatedTitle>Wi-Fi, yes-yes</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Valentina Ferreri</translator>
+                            <language>Italian</language>
+                            <url>http://turbulence.org/Works/belles/?13</url>
+                            <translatedTitle>D&amp;#8217;ora in avanti &amp;#232; l&amp;#8217;evo della W-Lan</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Ernest Woo</translator>
+                            <language>English</language>
+                            <url>http://turbulence.org/Works/belles/?14</url>
+                            <translatedTitle>Wife-Eye, Wolf-I</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>&amp;#24464;&amp;#22269;&amp;#28126;</translator>
+                            <language>Chinese</language>
+                            <url>http://turbulence.org/Works/belles/?15</url>
+                            <translatedTitle>&amp;#23478;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator> Raymond Grande</translator>
+                            <language>Swahili</language>
+                            <url>http://turbulence.org/Works/belles/?16</url>
+                            <translatedTitle>Mke-jicho, Mbwa mwitu - jicho</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Elena Zaytseva</translator>
+                            <language>Russian</language>
+                            <url>http://turbulence.org/Works/belles/?17</url>
+                            <translatedTitle>Wife-eye, Wolf-eye</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Katie Collins</translator>
+                            <language>English</language>
+                            <url>http://turbulence.org/Works/belles/?18</url>
+                            <translatedTitle>The wife's eye. The wolf's eye</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Mohammed Elgnaoui</translator>
+                            <language>Arabic</language>
+                            <url>http://turbulence.org/Works/belles/?19</url>
+                            <translatedTitle>&amp;#1593;&amp;#1610;&amp;#1606;&amp;#1575; &amp;#1575;&amp;#1604;&amp;#1586;&amp;#1608;&amp;#1580;&amp;#1577;. &amp;#1593;&amp;#1610;&amp;#1606;&amp;#1575; &amp;#1575;&amp;#1604;&amp;#1584;&amp;#1574;&amp;#1576;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Eleonora Marrani</translator>
+                            <language>Italian</language>
+                            <url>http://turbulence.org/Works/belles/?20</url>
+                            <translatedTitle>Wi-Fi, s&amp;#236;-s&amp;#236;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Raquel Fernandez</translator>
+                            <language>Spanish</language>
+                            <url>http://turbulence.org/Works/belles/?21</url>
+                            <translatedTitle>De ahora en adelante es la era de la W-Lan</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Jisoo Choi</translator>
+                            <language>Korean</language>
+                            <url>http://turbulence.org/Works/belles/?22</url>
+                            <translatedTitle>&amp;#50752;&amp;#51060;-&amp;#54028;&amp;#51060;, &amp;#50696;&amp;#49828;-&amp;#50696;&amp;#49828;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Ghassan Kaiali</translator>
+                            <language>Arabic</language>
+                            <url>http://turbulence.org/Works/belles/?23</url>
+                            <translatedTitle>&amp;#1605;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1571;&amp;#1606; &amp;#1601;&amp;#1589;&amp;#1575;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1611; &amp;#1548; &amp;#1593;&amp;#1589;&amp;#1585; &amp;#1575;&amp;#1604;&amp;#1588;&amp;#1576;&amp;#1603;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1604;&amp;#1575;&amp;#1587;&amp;#1604;&amp;#1603;&amp;#1610;&amp;#1577;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Ana Cristino</translator>
+                            <language>Portugese</language>
+                            <url>http://turbulence.org/Works/belles/?24</url>
+                            <translatedTitle>De agora em diante a &amp;#233;poca &amp;#233; a da WLAN</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Tanweer Ahmad</translator>
+                            <language>Urdu</language>
+                            <url>http://turbulence.org/Works/belles/?25</url>
+                            <translatedTitle>&amp;#1576;&amp;#1740;&amp;#1608;&amp;#1740; &amp;#1705;&amp;#1740; &amp;#1570;&amp;#1606;&amp;#1705;&amp;#1726;&amp;#1548; &amp;#1576;&amp;#1726;&amp;#1740;&amp;#1681;&amp;#1740;&amp;#1746; &amp;#1705;&amp;#1740; &amp;#1570;&amp;#1606;&amp;#1705;&amp;#1726;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Top Global Translators</translator>
+                            <language>Urdu</language>
+                            <url>http://turbulence.org/Works/belles/?26</url>
+                            <translatedTitle>&amp;#1576;&amp;#1740;&amp;#1608;&amp;#1740; &amp;#1705;&amp;#1740; &amp;#1570;&amp;#1606;&amp;#1705;&amp;#1726;&amp;#1548; &amp;#1576;&amp;#1726;&amp;#1740;&amp;#1681;&amp;#1740;&amp;#1746; &amp;#1705;&amp;#1740; &amp;#1570;&amp;#1606;&amp;#1705;&amp;#1726;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Polina Fix</translator>
+                            <language>Russian</language>
+                            <url>http://turbulence.org/Works/belles/?27</url>
+                            <translatedTitle>&amp;#1054;&amp;#1090;&amp;#1085;&amp;#1099;&amp;#1085;&amp;#1077; &amp;#1080; &amp;#1074;&amp;#1087;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1100; WLAN</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Anitha Gomathy</translator>
+                            <language>English</language>
+                            <url>http://turbulence.org/Works/belles/?28</url>
+                            <translatedTitle>WIFE'S EYE, WOLF'S EYE</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Reed Tang Yue</translator>
+                            <language>Chinese</language>
+                            <url>http://turbulence.org/Works/belles/?29</url>
+                            <translatedTitle>&amp;#20869;&amp;#30524;&amp;#65292;&amp;#29436;&amp;#30524;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Stephanie M. Schnabel</translator>
+                            <language>German</language>
+                            <url>http://turbulence.org/Works/belles/?30</url>
+                            <translatedTitle>Das Auge der Frau. Das Auge des Wolfes.</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Howard Lee</translator>
+                            <language>Korean</language>
+                            <url>http://turbulence.org/Works/belles/?31</url>
+                            <translatedTitle>&amp;#48512;&amp;#51064;&amp;#51032; &amp;#45576;. &amp;#51060;&amp;#47532;&amp;#51032; &amp;#45576;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>F?tima Sayyad-Hernando</translator>
+                            <language>Spanish</language>
+                            <url>http://turbulence.org/Works/belles/?32</url>
+                            <translatedTitle>El ojo de la mujer. El ojo del lobo.</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Pilar Tielas da Silva</translator>
+                            <language>Portugese</language>
+                            <url>http://turbulence.org/Works/belles/?33</url>
+                            <translatedTitle>O olho da mulher. O olho do lobo.</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Nikki Schletz</translator>
+                            <language>English</language>
+                            <url>http://turbulence.org/Works/belles/?34</url>
+                            <translatedTitle>Wolf Eye, Wife Eye</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Yasutomo Kaze</translator>
+                            <language>Japanese</language>
+                            <url>http://turbulence.org/Works/belles/?35</url>
+                            <translatedTitle>Wi-Fi, yes-yes</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Tomoko Nishi</translator>
+                            <language>Japanese</language>
+                            <url>http://turbulence.org/Works/belles/?36</url>
+                            <translatedTitle>&amp;#12527;&amp;#12452;&amp;#12501;&amp;#12398;&amp;#30446;&amp;#12392;&amp;#12454;&amp;#12523;&amp;#12501;&amp;#12398;&amp;#30446;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Pamela Liko</translator>
+                            <language>Swahili</language>
+                            <url>http://turbulence.org/Works/belles/?37</url>
+                            <translatedTitle>MACHO YA MKE, MACHO YA MBWA MWITU</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Ashutosh Mitra</translator>
+                            <language>Hindi</language>
+                            <url>http://turbulence.org/Works/belles/?38</url>
+                            <translatedTitle>&amp;#2346;&amp;#2340;&amp;#2381;&amp;#2344;&amp;#2368; &amp;#2325;&amp;#2368; &amp;#2310;&amp;#2305;&amp;#2326;, &amp;#2349;&amp;#2375;&amp;#2337;&amp;#2364;&amp;#2367;&amp;#2351;&amp;#2375; &amp;#2325;&amp;#2368; &amp;#2310;&amp;#2305;&amp;#2326;(&amp;#2357;&amp;#2366;&amp;#2312;&amp;#2347; &amp;#2310;&amp;#2312;, &amp;#2357;&amp;#2369;&amp;#2354;&amp;#2381;&amp;#2347; &amp;#2310;&amp;#2312;)</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator> Surya Samaddar</translator>
+                            <language>Hindi</language>
+                            <url>http://turbulence.org/Works/belles/?39</url>
+                            <translatedTitle>&amp;#2357;&amp;#2369;&amp;#2354;&amp;#2381;&amp;#2347;-&amp;#2310;&amp;#2351;, &amp;#2357;&amp;#2369;&amp;#2354;&amp;#2381;&amp;#2347;-&amp;#2310;&amp;#2312; (Wolf-eye, Wolf-I)</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Judith Prince</translator>
+                            <language>English</language>
+                            <url>http://turbulence.org/Works/belles/?40</url>
+                            <translatedTitle>Eye of the Woman, Eye of the Wolf</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Linah Wanza</translator>
+                            <language>Swahili</language>
+                            <url>http://turbulence.org/Works/belles/?41</url>
+                            <translatedTitle>Macho ya mwanamke. Macho ya mbwa mwitu</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Melissa Skyer</translator>
+                            <language>ASL</language>
+                            <url>http://turbulence.org/Works/belles/?42</url>
+                            <translatedTitle>Wife's eye, wolf eye</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Guy Who Worked For Money</title>
+                     <url>http://shareable.net/blog/the-guy-who-worked-for-money</url>
+                     <publication>
+                            <venue>
+                                   <name>shareable.net</name>
+                                   <url>http://shareable.net/</url>
+                            </venue>
+                            <date>July 12, 2010</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Under the Needle's Eye</name>
+                                   <url>http://www.amazon.com/Under-the-Needles-Eye-ebook/dp/B007XXLPVK/</url>
+                            </venue>
+                            <date>May 4, 2012</date>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>How to Live on Other Planets: A Handbook for Aspiring Aliens, ed. Joanne Merriam</name>
+                                   <url>http://www.upperrubberboot.com/how-to-live-on-other-planets-a-handbook-for-aspiring-aliens/</url>
+                            </venue>
+                            <date>February 16, 2015</date>
+                            <reprint>true</reprint>
+                     </publication>
+
+
+
+                     <translation>
+                            <translator>Michael Drecker</translator>
+                            <language>German</language>
+                            <url>http://www.amazon.de/Freier-Fall-Mann-arbeitet-ebook/dp/B008MO29R8/</url>
+                            <translatedTitle>Der Mann, der f&amp;#252;r Geld arbeitet</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Frog Comrade</title>
+                     <publication>
+                            <venue>
+                                   <name>F&amp;SF</name>
+                                   <url>http://www.sfsite.com/fsf/</url>
+                            </venue>
+                            <date>Mar/April 2010</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <review>
+                            <venue>
+                                   <name>IROSF</name>
+                                   <url>http://www.irosf.com</url>
+                            </venue>
+                            <url>http://www.irosf.com/q/zine/article/10629</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Nine Alternate Alternate Histories</title>
+                     <publication>
+                            <venue>
+                                   <name>Other Earths</name>
+                                   <url>http://www.amazon.com/Other-Earths-Nick-Gevers/dp/0756405467</url>
+                            </venue>
+                            <date>April 7, 2009</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Ni alternative alternative historier</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Sense and Sensibility</title>
+                     <description>original story in collection</description>
+                     <publication>
+                            <venue>
+                                   <name>The Ant King and Other Stories</name>
+                                   <url>http://lcrw.net/wordpress/?p=254</url>
+                            </venue>
+                            <date>August 5, 2008</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Small Beer Podcast</name>
+                                   <url>http://smallbeerpress.com/not-a-journal/2012/08/07/small-beer-podcast-12-benjamin-rosenbaums-sense-and-sensibility/</url>
+                            </venue>
+                            <date>August 7, 2012</date>
+                            <reprint>true</reprint>
+                            <otherPubInfo>, read by David Thompson</otherPubInfo>
+                            <type>podcast</type>
+                     </publication>
+              </work>
+              <work>
+                     <type>asEditor</type>
+                     <title>Tumbarumba</title>
+                     <description>a frolic of intrustions</description>
+                     <collaborators>
+                            <venue>
+                                   <name>Ethan Ham</name>
+                                   <url>http://www.ethanham.com</url>
+                            </venue>
+                            <venue>
+                                   <name>turbulence.org</name>
+                                   <url>http://turbulence.org</url>
+                            </venue>
+                     </collaborators>
+                     <url>http://tumbarumba.org</url>
+                     <review>
+                            <venue>
+                                   <name>LA Times</name>
+                            </venue>
+                            <url>http://latimesblogs.latimes.com/jacketcopy/2008/12/embed-stories-i.html</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>True Names</title>
+                     <collaborators>
+                            <venue>
+                                   <name>Cory Doctorow</name>
+                                   <url>http://craphound.com</url>
+                            </venue>
+                     </collaborators>
+                     <url>http://www.feedbooks.com/book/3511</url>
+                     <publication>
+                            <venue>
+                                   <name>Fast Forward 2</name>
+                                   <url>http://www.pyrsf.com/FastForward-2.html</url>
+                            </venue>
+                            <date>October 2008</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Digital Rapture: The Singularity Anthology</name>
+                                   <url>http://tachyonpublications.com/book/Digital_Rapture.html</url>
+                            </venue>
+                            <date>August 2012</date>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>craphound.com</name>
+                                   <url>http://craphound.com</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <otherPubInfo>: &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast114TrueNameswithBenjaminRosenbaumPart01/Cory_Doctorow_Podcast_114_-_True_Names_With_Benjamin_Rosenbaum_-_Part_01_64kb.mp3"&gt;1&lt;/a&gt;               &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast115TrueNameswithBenjaminRosenbaumPart02/Cory_Doctorow_Podcast_115_-_True_Names_With_Benjamin_Rosenbaum_-_Part_02_64kb.mp3"&gt;2&lt;/a&gt;               &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast116TrueNameswithBenjaminRosenbaumPart03/Cory_Doctorow_Podcast_116_-_True_Names_With_Benjamin_Rosenbaum_-_Part_03_64kb.mp3"&gt;3&lt;/a&gt;               &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast117TrueNameswithBenjaminRosenbaumPart04/Cory_Doctorow_Podcast_117_-_True_Names_With_Benjamin_Rosenbaum_-_Part_04_64kb.mp3"&gt;4&lt;/a&gt;               &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast118TrueNameswithBenjaminRosenbaumPart05/Cory_Doctorow_Podcast_118_-_True_Names_With_Benjamin_Rosenbaum_-_Part_05_64kb.mp3"&gt;5&lt;/a&gt;               &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast119TrueNameswithBenjaminRosenbaumPart06/Cory_Doctorow_Podcast_119_-_True_Names_With_Benjamin_Rosenbaum_-_Part_06_64kb.mp3"&gt;6&lt;/a&gt;               &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast119TrueNameswithBenjaminRosenbaumPart07/Cory_Doctorow_Podcast_120_-_True_Names_With_Benjamin_Rosenbaum_-_Part_07_64kb.mp3"&gt;7&lt;/a&gt;               &lt;a href="http://www.archive.org/download/CoryDoctorowPodcast120TrueNameswithBenjaminRosenbaumPart08/Cory_Doctorow_Podcast_121_-_True_Names_With_Benjamin_Rosenbaum_-_Part_08_64kb.mp3"&gt;8&lt;/a&gt;               </otherPubInfo>
+                            <type>podcast</type>
+                     </publication>
+                     <translation>
+                            <translator>Ireneusz Dybczy&amp;#x0144;ski</translator>
+                            <language>Polish</language>
+                            <url>http://sf.giang.pl/Benjamin_Rosenbaum_i_Cory_Doctorow_Prawdziwe_Imiona.php</url>
+                            <translatedTitle>Prawdziwe Imiona</translatedTitle>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Award</name>
+                                   <url>http://www.locusmag.com/News/2009/04/2009-locus-award-finalists.html</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Hugo Award</name>
+                                   <url>http://www.thehugoawards.org/?p=260</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Strange Horizons</name>
+                            </venue>
+                            <url>http://www.strangehorizons.com/reviews/2008/11/fast_foward_2_e.shtml</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Discover Magazine</name>
+                            </venue>
+                            <url>http://blogs.discovermagazine.com/sciencenotfiction/2008/10/14/fast-forward-2/</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Futurismic</name>
+                            </venue>
+                            <url>http://futurismic.com/2008/12/03/book-review-fast-forward-2-edited-by-lou-anders/#more-5039</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The King of the Djinn</title>
+                     <collaborators>
+                            <venue>
+                                   <name>David Ackert</name>
+                                   <url>http://www.davidackert.com</url>
+                            </venue>
+                     </collaborators>
+                     <publication>
+                            <venue>
+                                   <name>Realms of Fantasy</name>
+                                   <url>http://www.rofmagazine.com/</url>
+                            </venue>
+                            <date>February 2008</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Year's Best Fantasy 8 </name>
+                                   <url>http://www.amazon.com/Years-Best-Fantasy-David-Hartwell/dp/1892391767</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Molly and the Red Hat</title>
+                     <publication>
+                            <venue>
+                                   <name>Interzone 213</name>
+                                   <url>http://ttapress.com/271/interzone-213</url>
+                            </venue>
+                            <date>November, 2007</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Takashi Ogawa (Yoshio Kobayashi)</translator>
+                            <language>Japanese</language>
+                            <url>http://www.26to50.com/jp/works/redhat_0907.html</url>
+                            <translatedTitle>&amp;#x30e2;&amp;#x30ea;&amp;#x30fc;&amp;#x3068;&amp;#x8d64;&amp;#x3044;&amp;#x5e3d;&amp;#x5b50;</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>26to50</name>
+                                          <url>http://26to50.com</url>
+                                   </venue>
+                                   <date>July, 2009</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List </name>
+                                   <url>http://www.locusmag.com/2008/2007RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Suite 101</name>
+                            </venue>
+                            <url>http://scififantasyfiction.suite101.com/article.cfm/interzone_213</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Best SF</name>
+                                   <url>http://www.bestsf.net</url>
+                            </venue>
+                            <url>http://www.bestsf.net/?p=1167</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Stray</title>
+                     <collaborators>
+                            <venue>
+                                   <name>David Ackert</name>
+                                   <url>http://www.davidackert.com</url>
+                            </venue>
+                     </collaborators>
+                     <publication>
+                            <venue>
+                                   <name>F&amp;SF</name>
+                                   <url>http://www.sfsite.com/fsf/toc0712.htm</url>
+                            </venue>
+                            <date>December 2007</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Year's Best Science Fiction: Twenty-Fifth Annual Collection</name>
+                                   <url>http://www.amazon.com/Years-Best-Science-Fiction-Twenty-Fifth/dp/0312378602/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Fantasy: The Best of the Year, 2008 Edition</name>
+                                   <url>http://www.amazon.com/Fantasy-Best-Year-2008-Quality/dp/0809572516/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Annika Ochner</translator>
+                            <language>German</language>
+                            <translatedTitle>Irrlicht</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Pandora #4</name>
+                                          <url>http://www.shayol.biz/epages/61530001.sf/de_DE/?ObjectPath=/Shops/61530001/Products/08204</url>
+                                   </venue>
+                                   <date>Fruehjahr 2010</date>
+                                   <reprint>false</reprint>
+                                   <otherPubInfo>, with illustrations by Sabine Freiermuth</otherPubInfo>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Strejfer</translatedTitle>
+                     </translation>
+                     <translation>
+                            <language>Czech</language>
+                            <translatedTitle>Tul&amp;#x00e1;k</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Czech edition of F&amp;SF</name>
+                                          <url>http://www.fandsf.cz/index.php?page=10&amp;id_clanek=169</url>
+                                   </venue>
+                                   <date>January 2009</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List</name>
+                                   <url>http://www.locusmag.com/2008/2007RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Best SF</name>
+                                   <url>http://www.bestsf.net</url>
+                            </venue>
+                            <url>http://www.bestsf.net/?p=925</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Twenty-three Small Disasters</title>
+                     <collaborators>
+                            <venue>
+                                   <name>Christopher Barzak</name>
+                            </venue>
+                            <venue>
+                                   <name>Elad Haber</name>
+                            </venue>
+                            <venue>
+                                   <name>Greg van Eekhout</name>
+                            </venue>
+                            <venue>
+                                   <name>Kiini Ibura Salaam</name>
+                            </venue>
+                            <venue>
+                                   <name>Meghan McCarron</name>
+                            </venue>
+                            <venue>
+                                   <name>Tim Pratt</name>
+                            </venue>
+                     </collaborators>
+                     <url>http://www.ideomancer.com/main/vol6issue1/rosenbaum_et_al/23smalldisasters.html</url>
+                     <publication>
+                            <venue>
+                                   <name>Ideomancer</name>
+                                   <url>http://www.ideomancer.com/</url>
+                            </venue>
+                            <date>Spring 2007</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=1007&amp;Itemid=267</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The House Beyond Your Sky</title>
+                     <url>http://www.strangehorizons.com/2006/20060904/house-f.shtml</url>
+                     <publication>
+                            <venue>
+                                   <name>Strange Horizons</name>
+                                   <url>http://www.strangehorizons.com/</url>
+                            </venue>
+                            <date>September 4, 2006</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Year's Best Science Fiction: Twenty-Fourth Annual Collection</name>
+                                   <url>http://www.amazon.com/Science-Fiction-Twenty-Fourth-Annual-Collection/dp/0312363354/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Best Science Fiction And Fantasy Of The Year Volume 1</name>
+                                   <url>http://www.amazon.com/Best-Science-Fiction-Fantasy-Year/dp/1597800686/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Science Fiction: The Best of the Year, 2007 Edition</name>
+                                   <url>http://www.amazon.com/Science-Fiction-Best-Year-2007/dp/0809562979/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Escape Pod</name>
+                                   <url>http://escapepod.org/2007/05/17/ep106-the-house-beyond-your-sky/</url>
+                            </venue>
+                            <date>May 2007</date>
+                            <reprint>true</reprint>
+                            <otherPubInfo>, read by Paul Tevis</otherPubInfo>
+                            <type>podcast</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Beam Me Up</name>
+                            </venue>
+                            <date>May 2007</date>
+                            <reprint>true</reprint>
+                            <type>podcast</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>StarShipSofa</name>
+                                   <url>http://www.starshipsofa.com/20090301/aural-delights-no-68-kim-newman/</url>
+                            </venue>
+                            <date>March, 2009</date>
+                            <reprint>true</reprint>
+                            <type>podcast</type>
+                     </publication>
+                     <translation>
+                            <translator>Yoshio Kobayashi</translator>
+                            <language>Japanese</language>
+                            <publication>
+                                   <venue>
+                                          <name>Hayakawa SF</name>
+                                          <url>http://www.hayakawa-online.co.jp/</url>
+                                   </venue>
+                                   <date>August, 2007</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Florence Dolisi</translator>
+                            <language>French</language>
+                            <url>http://www.angle-mort.fr/fiction/la-maison-derriere-le-ciel-benjamin-rosenbaum/</url>
+                            <translatedTitle>La maison derri&amp;#x0E8;re le ciel</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Angle Mort</name>
+                                          <url>http://www.angle-mort.fr/</url>
+                                   </venue>
+                                   <date>F&amp;#x0E9;vrier 2011</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Elisabetta Vernier</translator>
+                            <language>Italian</language>
+                            <url>http://www.delosstore.it/delosbooks/scheda.php?id=27833</url>
+                            <translatedTitle>La casa oltre il cielo</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Robot</name>
+                                          <url>http://delosbooks.it</url>
+                                   </venue>
+                                   <date>Giugno 2008</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>pirates (discovered November 2007)</translator>
+                            <language>Russian</language>
+                            <url>http://www.fantlab.ru/work48470</url>
+                            <translatedTitle>&amp;#x0414;&amp;#x043e;&amp;#x043c; &amp;#x0437;&amp;#x0430; &amp;#x0432;&amp;#x0430;&amp;#x0448;&amp;#x0438;&amp;#x043c; &amp;#x043d;&amp;#x0435;&amp;#x0431;&amp;#x043e;&amp;#x043c;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Luis Pestarini</translator>
+                            <language>Spanish</language>
+                            <url>http://www.benjaminrosenbaum.com/stories/la.casa.mas.alla.de.tu.cielo.html</url>
+                            <translatedTitle>La casa m&amp;#x00e1;s all&amp;#x00e1; de tu cielo</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Cu&amp;#x00e1;sar 45</name>
+                                          <url>http://www.revistacuasar.com.ar/modules.php?name=News&amp;file=article&amp;sid=178</url>
+                                   </venue>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>BSFA Award</name>
+                                   <url>http://www.bsfa.co.uk/index.cfm/section.shortlist2006</url>
+                            </venue>
+                            <type>shortlisted</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List</name>
+                                   <url>http://www.locusmag.com/2007/2006RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Hugo Award</name>
+                                   <url>http://nielsenhayden.com/makinglight/archives/008804.html</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Sturgeon Award</name>
+                                   <url>http://www.sfsignal.com/archives/005137.html</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://www.tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=857&amp;Itemid=264</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>A Siege of Cranes</title>
+                     <url>http://www.allstarstories.com/rosenbaum-siege.html</url>
+                     <publication>
+                            <venue>
+                                   <name>Twenty Epics</name>
+                                   <url>http://www.lulu.com/content/308245</url>
+                            </venue>
+                            <date>July 6, 2006</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Year's Best Fantasy and Horror 2007: 20th Annual Collection</name>
+                                   <url>http://www.amazon.com/Years-Best-Fantasy-Horror-2007/dp/0312369425/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Fantasy: The Best of the Year, 2007 Edition</name>
+                                   <url>http://www.amazon.com/Fantasy-Best-Year-2007/dp/0809562987/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Best Science Fiction And Fantasy Of The Year Volume 1</name>
+                                   <url>http://www.amazon.com/Best-Science-Fiction-Fantasy-Year/dp/1597800686/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Davide Mara</translator>
+                            <language>Italian</language>
+                            <translatedTitle>Un volo di gru</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Alia</name>
+                                          <url>http://www.arpnet.it/cs/alia/alia.htm</url>
+                                   </venue>
+                                   <date>March 2011</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List</name>
+                                   <url>http://www.locusmag.com/2007/2006RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>World Fantasy Award</name>
+                                   <url>http://www.worldfantasy.org/awards/2007.html</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://www.tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=865&amp;Itemid=263</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Falling</title>
+                     <url>http://www.shareable.net/blog/falling</url>
+                     <publication>
+                            <venue>
+                                   <name>Nature</name>
+                                   <url>http://www.nature.com/</url>
+                            </venue>
+                            <date>September 22, 2005</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>shareable.net</name>
+                                   <url>http://shareable.net/blog/falling</url>
+                            </venue>
+                            <date>July 7, 2010</date>
+                            <reprint>true</reprint>
+                            <type>website</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Beam Me Up</name>
+                                   <url>http://www.beammeuppodcast.com/?p=83</url>
+                            </venue>
+                            <date>November 7th, 2010</date>
+                            <reprint>true</reprint>
+                            <type>podcast</type>
+                     </publication>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>At falde</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Ireneusz Dybczy&amp;#324;ski</translator>
+                            <language>Polish</language>
+                            <url>http://sf.giang.pl/Benjamin_Rosenbaum_Upadek_swobodny.php</url>
+                            <translatedTitle>Upadek swobodny</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Michael Drecker</translator>
+                            <language>German</language>
+                            <url>http://www.amazon.de/Freier-Fall-Mann-arbeitet-ebook/dp/B008MO29R8/</url>
+                            <translatedTitle>Freier Fall</translatedTitle>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>The Year's Best Science Fiction #23</name>
+                                   <url>http://www.amazon.com/Science-Fiction-Twenty-third-Annual-Collection/dp/0312353340/benjaminrosenbau/</url>
+                            </venue>
+                            <type>honorableMention</type>
+                     </recognition>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Orphans</title>
+                     <publication>
+                            <venue>
+                                   <name>McSweeney's</name>
+                                   <url>http://www.mcsweeneys.net/</url>
+                            </venue>
+                            <date>February, 2005</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <recognition>
+                            <venue>
+                                   <name>The Best American Short Stories 2006</name>
+                                   <url>http://www.amazon.com/Best-American-Short-Stories-2006/dp/061854352X/benjaminrosenbau</url>
+                            </venue>
+                            <type>honorableMention</type>
+                     </recognition>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Collaborations by Well-Known Twentieth-Century Authors Which Were Rejected By Their Publishers and Are Now Collected</title>
+                     <collaborators>
+                            <venue>
+                                   <name>Paul Melko</name>
+                                   <url>http://www.sff.net/people/melko/</url>
+                            </venue>
+                     </collaborators>
+                     <publication>
+                            <venue>
+                                   <name>Lady Chruchill's Rosebud Wristlet #15</name>
+                                   <url>http://lcrw.net/issues/lcrw15.htm</url>
+                            </venue>
+                            <date>January, 2005</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <review>
+                            <venue>
+                                   <name>The Mumpsismus</name>
+                            </venue>
+                            <url>http://mumpsimus.blogspot.com/2005/06/gadzooks-good-zines.html</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>One for the Road</title>
+                     <description>(erotica)</description>
+                     <url>http://www.cleansheets.com/fiction/rosenbaum_12.22.04.shtml</url>
+                     <publication>
+                            <venue>
+                                   <name>Clean Sheets</name>
+                                   <url>http://www.cleansheets.com/</url>
+                            </venue>
+                            <date>December, 2004</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Biographical Notes to 'A Discourse on the Nature of Causality, with Air-Planes', by Benjamin Rosenbaum</title>
+                     <url>http://benjaminrosenbaum.com/stories/rosenbaum-notes.pdf</url>
+                     <publication>
+                            <venue>
+                                   <name>All-Star Zeppelin Adventure Stories</name>
+                                   <url>http://www.allstarstories.com/</url>
+                            </venue>
+                            <date>October, 2004</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Feeling Very Strange</name>
+                                   <url>http://www.amazon.com/gp/product/189239135X/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Podcastle</name>
+                                   <url>http://podcastle.org/2010/02/09/podcastle-90-biographical-notes-to-%E2%80%9Ca-discourse-on-the-nature-of-causality-with-air-planes%E2%80%9D-by-benjamin-rosenbaum/</url>
+                            </venue>
+                            <date>February 12, 2010</date>
+                            <reprint>true</reprint>
+                            <otherPubInfo>, read by Graeme Dunlop</otherPubInfo>
+                            <type>podcast</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>a handmade artisanal edition, by Todd Sanders</name>
+                                   <url>http://aanpress.com/discourse.pdf</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>People of the Book: A Decade of Jewish Science Fiction &amp; Fantasy</name>
+                                   <url>http://www.prime-books.com/shop/print-books/people-of-the-book-a-decade-of-jewish-science-fiction-fantasy-edited-by-rachel-swirsky-sean-wallace/</url>
+                            </venue>
+                            <date>December 1, 2011</date>
+                            <reprint>true</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Francesco Lato</translator>
+                            <language>Italian</language>
+                            <url>http://www.benjaminrosenbaum.com/stories/note.biografiche.html</url>
+                            <translatedTitle>Note biografiche a "Una dissertazione sulla natura della causalit&amp;#x00e0;, con aero-plani" di Benjamin Rosenbaum</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Robot #48</name>
+                                          <url>http://www.fantascienza.net/robot/48.html</url>
+                                   </venue>
+                                   <date>Spring 2005</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Biografiske noter til 'En afhandling om kausalitetens natur (med luftfart&amp;#x00f8;jer)' af Benjamin Rosenbaum</translatedTitle>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List</name>
+                                   <url>http://www.locusmag.com/2005/Issues/02RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Hugo Award</name>
+                                   <url>http://www.sfwa.org/News/05hugoballot.htm</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>The Year's Best Science Fiction 22</name>
+                                   <url>http://www.amazon.com/Science-Fiction-Twenty-Second-Annual-Collection/dp/0312336608/benjaminrosenbau/</url>
+                            </venue>
+                            <type>honorableMention</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://www.tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=410&amp;Itemid=259</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Night Waking</title>
+                     <url>http://www.benjaminrosenbaum.com/stories/night.waking.html</url>
+                     <publication>
+                            <venue>
+                                   <name>Flytrap #3</name>
+                                   <url>http://www.tropismpress.com/flytrap.html</url>
+                            </venue>
+                            <date>November 2004</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Beam Me Up</name>
+                                   <url>http://beameup.podomatic.com/entry/2010-02-20T17_15_24-08_00</url>
+                            </venue>
+                            <date>February 20, 2010</date>
+                            <reprint>false</reprint>
+                            <type>podcast</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Journey Into Podcast</name>
+                                   <url>http://www.journeyintopodcast.blogspot.ch/2013/06/journey-71-night-waking-by-benjamin.html</url>
+                            </venue>
+                            <date>June 2013</date>
+                            <reprint>false</reprint>
+                            <type>podcast</type>
+                     </publication>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>V&amp;#x00e5;gen i natten</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Start the Clock</title>
+                     <url>http://www.benjaminrosenbaum.com/stories/start.the.clock.html</url>
+                     <publication>
+                            <venue>
+                                   <name>F&amp;SF</name>
+                                   <url>http://www.sfsite.com/fsf/toc0408.htm</url>
+                            </venue>
+                            <date>August 2004</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Exquisite Corpuscle</name>
+                                   <url>http://www.amazon.com/Exquisite-Corpuscle-Frank-Wu/dp/0978907884</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <otherPubInfo>: originally written for this project</otherPubInfo>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Year's Best Science Fiction 22</name>
+                                   <url>http://www.amazon.com/exec/obidos/tg/detail/-/0312336608/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Science Fiction: Stories and Contexts</name>
+                                   <url>http://www.amazon.com/Science-Fiction-Contexts-Heather-Masri/dp/031245015X</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Escape Pod</name>
+                                   <url>http://www.escapepod.org/2007/03/29/ep099-start-the-clock/</url>
+                            </venue>
+                            <date>March 2007</date>
+                            <reprint>true</reprint>
+                            <type>podcast</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Telling Tales</name>
+                                   <url>http://hydrahousebooks.com/telling-tales-the-clarion-west-30th-anniversary-anthology/</url>
+                            </venue>
+                            <date>July 1, 2013</date>
+                            <reprint>true</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Petr Kotrle</translator>
+                            <language>Czech</language>
+                            <translatedTitle>Pust&amp;#x0165;e Hodiny</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Czech version of F&amp;SF</name>
+                                          <url>http://www.fandsf.cz/index.php?page=10&amp;id_clanek=26</url>
+                                   </venue>
+                                   <date>January, 2006</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Start uret</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Sonia Qu&amp;#x00e9;mener</translator>
+                            <language>French</language>
+                            <url>http://www.benjaminrosenbaum.com/stories/relancer.l.horloge.html</url>
+                            <translatedTitle>Relancer l'Horloge</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Fiction, tome 10</name>
+                                          <url>http://moutons-electriques.fr/livre.php?p=intro&amp;n=93</url>
+                                   </venue>
+                                   <date>25 septembre 2009</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Gabriel Stoian</translator>
+                            <language>Romanian</language>
+                            <url>http://ecarti.org/cpsf/images/stories/ss/Rosenbaum,%20Benjamin%20-%20Pornirea%20ceasului.doc</url>
+                            <translatedTitle>Pornirea ceasului</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Povestiri</name>
+                                          <url>http://www.nautilus.nemira.ro/category/povestiri/</url>
+                                   </venue>
+                                   <date>March 2008</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Lilian Wiberg</translator>
+                            <language>Swedish</language>
+                            <url>http://benjaminrosenbaum.com/stories/starta.klockan.html</url>
+                            <translatedTitle>Starta Klockan</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Mitraina </name>
+                                          <url>http://www.mitrania.se/</url>
+                                   </venue>
+                                   <date>Summer, 2006</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List</name>
+                                   <url>http://www.locusmag.com/2005/Issues/02RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Preliminary Nebula Award Ballot</name>
+                                   <url>http://www.sfwa.org/Awards/2006/NebPrelim2005.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Sturgeon Award</name>
+                                   <url>http://www.locusmag.com/2005/News/06_SturgeonFinalists.html</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://www.tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=408&amp;Itemid=259</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Best SF</name>
+                                   <url>http://www.bestsf.net</url>
+                            </venue>
+                            <url>http://www.bestsf.net/?p=818</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Valley of the Giants</title>
+                     <url>http://www.bookspotcentral.com/2008/07/exclusive-the-valley-of-the-giants-by-benjamin-rosenbaum-short-fiction/</url>
+                     <publication>
+                            <venue>
+                                   <name>Argosy #1</name>
+                            </venue>
+                            <date>January/Feburary 2004</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Year's Best Fantasy and Horror: Seventeenth Annual Collection 17</name>
+                                   <url>http://www.amazon.com/exec/obidos/ASIN/0312329288/benjaminrosenbau/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <recognition>
+                            <venue>
+                                   <name>The Year's Best Science Fiction 22</name>
+                                   <url>http://www.amazon.com/exec/obidos/tg/detail/-/031233660</url>
+                            </venue>
+                            <type>honorableMention</type>
+                     </recognition>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Embracing-the-New</title>
+                     <url>http://www.benjaminrosenbaum.com/stories/embracing.the.new.html</url>
+                     <publication>
+                            <venue>
+                                   <name>Asimov's</name>
+                                   <url>http://www.asimovs.com/</url>
+                            </venue>
+                            <date>January, 2004</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Fictionwise</name>
+                                   <url>http://www.fictionwise.com/ebooks/eBook29647.htm</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <type>paidDownload</type>
+                     </publication>
+                     <translation>
+                            <language>Chinese</language>
+                            <url>http://hshaoyan.wordpress.com/2005/11/04/%E6%8B%A5%E6%8A%B1%E6%96%B0%E7%94%9F/</url>
+                            <translatedTitle>&amp;#x62e5;&amp;#x62b1;&amp;#x65b0;&amp;#x751f;</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Favne-Det-Nye</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Kazuko Onoda</translator>
+                            <language>Japanese</language>
+                            <publication>
+                                   <venue>
+                                          <name>Hayakawa SF</name>
+                                          <url>http://www.hayakawa-online.co.jp/</url>
+                                   </venue>
+                                   <date>June, 2006</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <language>Croatian</language>
+                            <translatedTitle>Prigrliti-Novo</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Futura 120</name>
+                                          <url>http://web.archive.org/web/http://www.zg-naklada.hr/futura/sadrzaj.asp?futuraID=120</url>
+                                   </venue>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Robert H&amp;#x00fd;sek</translator>
+                            <language>Czech</language>
+                            <url>http://www.benjaminrosenbaum.com/stories/czech.e-t-n.html</url>
+                            <translatedTitle>Ten, jen&amp;#x017e; prij&amp;#x00ed;m&amp;#x00e1; v&amp;#x0161;e nov&amp;#x00e9;</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>TROCHU DIVN&amp;#x00c9; KUSY 2</name>
+                                          <url>http://www.laser-books.cz/knihy/msust.html</url>
+                                   </venue>
+                                   <date>by Martin &amp;#x0160;ust and Laser-books, 2006</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                            <publication>
+                                   <venue>
+                                          <name>Pevnost</name>
+                                          <url>http://www.pevnost.cz/zobraz.php?action=clanek&amp;idclanku=415&amp;idsekce=35&amp;idpredka=301</url>
+                                   </venue>
+                                   <date>December 2006</date>
+                                   <reprint>true</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <language>Spanish</language>
+                            <translatedTitle>Abraza-lo-nuevo</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Asimov Ciencia Ficci&amp;#x00f3;n 12</name>
+                                          <url>http://tienda.cyberdark.net/asimov-ciencia-ficcion-12-n665.html</url>
+                                   </venue>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List</name>
+                                   <url>http://www.locusmag.com/2005/Issues/02RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>The Year's Best Science Fiction 22</name>
+                                   <url>http://www.amazon.com/exec/obidos/tg/detail/-/031233660/benjaminrosenbau</url>
+                            </venue>
+                            <type>honorableMention</type>
+                     </recognition>
+                     <recognition>
+                            <venue>
+                                   <name>Nebula Award</name>
+                                   <url>http://www.sfwa.org/awards/2005/NebFinal2004.html</url>
+                            </venue>
+                            <type>finalist</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>The New York Times</name>
+                            </venue>
+                            <url>http://www.nytimes.com/2006/06/11/books/review/11itzkoff.html</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://www.tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=96&amp;Itemid=259</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Blow, a Letter</title>
+                     <publication>
+                            <venue>
+                                   <name>McSweeney's Issue 11</name>
+                                   <url>http://store.mcsweeneys.net/index.cfm/fuseaction/catalog.detail/object_id/1C92ED2D-A051-41CC-A22D-09EAB52148A9/McSweeneysIssue11.cfm</url>
+                            </venue>
+                            <date>June 2003</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Slaget</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Red Leather Tassels</title>
+                     <publication>
+                            <venue>
+                                   <name>F&amp;SF</name>
+                                   <url>http://www.sfsite.com/fsf/toc0308.htm</url>
+                            </venue>
+                            <date>August 2003</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Best of Fantasy and Science Fiction Magazine, July-August 2003</name>
+                                   <url>http://www.audible.com/adbl/site/products/ProductDetail.jsp?productID=BK_ADBL_000015&amp;BV_UseBVCookie=Yes</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <otherPubInfo> at &lt;a href="http://audible.com"&gt;audible.com&lt;/a&gt;</otherPubInfo>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Fictionwise</name>
+                                   <url>http://www.fictionwise.com/ebooks/eBook29790.htm</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <type>paidDownload</type>
+                     </publication>
+                     <translation>
+                            <translator>Jana Reckov&amp;#x00e1;</translator>
+                            <language>Czech</language>
+                            <translatedTitle>Cerven&amp;#x00e9; Ko&amp;#x017e;en&amp;#x00e9; Tr&amp;#x00e1;sne</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Czech edition of F&amp;SF</name>
+                                          <url>http://www.fandsf.cz</url>
+                                   </venue>
+                                   <date>May, 2007</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://www.tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=219&amp;Itemid=259</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Best SF</name>
+                                   <url>http://www.bestsf.net</url>
+                            </venue>
+                            <url>http://www.bestsf.net/?p=786</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Death trap of Dr. Nefario</title>
+                     <url>http://webcache.googleusercontent.com/search?q=cache:http://www.infinitematrix.net/stories/shorts/dr_nefario.html</url>
+                     <publication>
+                            <venue>
+                                   <name>The Infinite Matrix</name>
+                                   <url>http://www.infinitematrix.net/</url>
+                            </venue>
+                            <date>March 25, 2003</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Escape Pod</name>
+                                   <url>http://escapepod.org/2005/10/20/ep024-the-death-trap-of-dr-nefario/</url>
+                            </venue>
+                            <date>Oct 20, 2005</date>
+                            <reprint>true</reprint>
+                            <otherPubInfo>, read by Chris Miller and Stephen Eley</otherPubInfo>
+                            <type>podcast</type>
+                     </publication>
+                     <translation>
+                            <translator>Peter Toushkov</translator>
+                            <language>Bulgarian</language>
+                            <url>http://sandhi.cult.bg/ben_rosenbaum/nefario.php</url>
+                            <translatedTitle>&amp;#x0421;&amp;#x041c;&amp;#x042a;&amp;#x0420;&amp;#x0422;&amp;#x041e;&amp;#x041d;&amp;#x041e;&amp;#x0421;&amp;#x041d;&amp;#x0418;&amp;#x042f;&amp;#x0422; &amp;#x041a;&amp;#x0410;&amp;#x041f;&amp;#x0410;&amp;#x041d; &amp;#x041d;&amp;#x0410; &amp;#x0414;-&amp;#x0420; &amp;#x041d;&amp;#x0415;&amp;#x0424;&amp;#x0410;&amp;#x0420;&amp;#x0418;&amp;#x041e;</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>&amp;#x0421;&amp;#x0430;&amp;#x043d;&amp;#x0434;&amp;#x0445;&amp;#x0438;</name>
+                                          <url>http://sandhi.cult.bg/</url>
+                                   </venue>
+                                   <date>2003</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Doktor Nefarios d&amp;#x00f8;dsf&amp;#x00e6;lde</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Book of Jashar</title>
+                     <url>http://www.strangehorizons.com/index.pl?Contents=/2003/20030317/jashar.shtml</url>
+                     <publication>
+                            <venue>
+                                   <name>Strange Horizons</name>
+                                   <url>http://www.strangehorizons.com/</url>
+                            </venue>
+                            <date>March 17, 2003</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Peter Toushkov</translator>
+                            <language>Bulgarian</language>
+                            <url>http://sandhi.cult.bg/ben_rosenbaum/jashar.php</url>
+                            <translatedTitle>&amp;#x041a;&amp;#x041d;&amp;#x0418;&amp;#x0413;&amp;#x0410;&amp;#x0422;&amp;#x0410; &amp;#x041d;&amp;#x0410; &amp;#x041f;&amp;#x0420;&amp;#x0410;&amp;#x0412;&amp;#x0415;&amp;#x0414;&amp;#x041d;&amp;#x0418;&amp;#x041a;&amp;#x0410;</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The City of Peace</title>
+                     <description>original story in chapbook</description>
+                     <publication>
+                            <venue>
+                                   <name>Other Cities</name>
+                                   <url>http://www.lcrw.net/smallbeer/chapbooks/benjaminrosenbaum.htm</url>
+                            </venue>
+                            <date>2003</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>article</type>
+                     <title>Goodbye, My Hero</title>
+                     <description>(essay in memory of Octavia Butler)</description>
+                     <publication>
+                            <venue>
+                                   <name>Strange Matings</name>
+                                   <url>http://www.aqueductpress.com/books/StrangeMatings.html</url>
+                            </venue>
+                            <date>July, 2013</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>article</type>
+                     <title>A Conversation Between Writers: Benjamin Rosenbaum and Aimee Bender</title>
+                     <url>http://www.strangehorizons.com/index.pl?Contents=/2003/20030303/conversation.shtml</url>
+                     <publication>
+                            <venue>
+                                   <name>Strange Horizons</name>
+                                   <url>http://www.strangehorizons.com/</url>
+                            </venue>
+                            <date>March 3, 2003</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Fig</title>
+                     <publication>
+                            <venue>
+                                   <name>Lady Churchill's Rosebud Wristlet, No. 11</name>
+                                   <url>http://www.lcrw.net/issues/lcrw11.htm</url>
+                            </venue>
+                            <date>November 2002</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Fictionwise</name>
+                            </venue>
+                            <reprint>true</reprint>
+                            <type>paidDownload</type>
+                     </publication>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://www.tangentonline.com/index.php?option=com_content&amp;task=view&amp;id=179&amp;Itemid=262</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>On the cliff by the river</title>
+                     <url>http://www.infinitematrix.net/stories/shorts/on_the_cliff.html</url>
+                     <publication>
+                            <venue>
+                                   <name>Infinite Matrix</name>
+                                   <url>http://www.infinitematrix.net/</url>
+                            </venue>
+                            <date>September 16, 2002</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Peter Toushkov</translator>
+                            <language>Bulgarian</language>
+                            <url>http://sandhi.cult.bg/ben_rosenbaum/cliff.php</url>
+                            <translatedTitle>&amp;#x041d;&amp;#x0410; &amp;#x0421;&amp;#x041a;&amp;#x0410;&amp;#x041b;&amp;#x0410;&amp;#x0422;&amp;#x0410; &amp;#x0414;&amp;#x041e; &amp;#x0420;&amp;#x0415;&amp;#x041a;&amp;#x0410;&amp;#x0422;&amp;#x0410;</translatedTitle>
+                     </translation>
+                     <review>
+                            <venue>
+                                   <name>Tangent Online</name>
+                            </venue>
+                            <url>http://web.archive.org/web/20041122211124/http://www.tangentonline.com/reviews/magazine.php3?review=717</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Orange</title>
+                     <url>http://www.benjaminrosenbaum.com/stories/orange.html</url>
+                     <publication>
+                            <venue>
+                                   <name>Quarterly West </name>
+                                   <url>http://www.webdelsol.com/Quarterly_West/</url>
+                            </venue>
+                            <date>Spring/Summer 2002</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Podcastle</name>
+                                   <url>http://podcastle.org/2009/07/03/podcastle-miniature-34-the-orange/</url>
+                            </venue>
+                            <date>July 3, 2009</date>
+                            <reprint>true</reprint>
+                            <otherPubInfo>, read by Paul S. Jenkins</otherPubInfo>
+                            <type>podcast</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Harper's</name>
+                                   <url>http://www.harpers.org/</url>
+                            </venue>
+                            <date>November 2002</date>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Flash Fiction Forward</name>
+                                   <url>http://www.amazon.com/Flash-Fiction-Forward-Short-Stories/dp/0393328023/benjaminrosenbau</url>
+                            </venue>
+                            <date>2006</date>
+                            <reprint>true</reprint>
+                     </publication>
+                     <adaptation>
+                            <adaptor>Nick Fox-Gieg</adaptor>
+                            <type>film</type>
+                            <url>http://fox-gieg.com/shorts-orange.html</url>
+                            <adaptationTitle>The Orange</adaptationTitle>
+                            <recognition>
+                                   <venue>
+                                          <name>Best Animated Short, SXSW 2010</name>
+                                          <url>http://www.sxsw.com/node/4649</url>
+                                   </venue>
+                                   <type>won</type>
+                            </recognition>
+                     </adaptation>
+                     <translation>
+                            <translator>Micha&amp;#x00eb;l La Chance</translator>
+                            <language>French</language>
+                            <url>http://web.archive.org/web/20050219100104/http://unom.net/Arhivatotsite/orange_oct.04.htm</url>
+                            <translatedTitle>L'Orange</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Frank Sijbenga</translator>
+                            <language>Dutch</language>
+                            <url>http://www.blindeschildpad.nl/2009/11/de-sinaasappel-benjamin-rosenbaum.html</url>
+                            <translatedTitle>De sinaasappel</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Asad Amraee</translator>
+                            <language>Farsi</language>
+                            <url>http://asadamraee.blogspot.com/2007/12/blog-post.html</url>
+                            <translatedTitle>&amp;#x067e;&amp;#x0631;&amp;#x062a;&amp;#x0642;&amp;#x0627;&amp;#x0644; (Porteghal)</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>TAZEH(Fresh), Vol. 2 No. 2</name>
+                                   </venue>
+                                   <date>Farvardin 1387 (March 2008)</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Bogdan Stefan</translator>
+                            <language>Romanian</language>
+                            <url>/stories/portocala.html</url>
+                            <translatedTitle>Portocala</translatedTitle>
+                     </translation>
+                     <translation>
+                            <translator>Klasse 2E, Gymnasium am M&amp;#252;nsterplatz, Basel</translator>
+                            <language>German</language>
+                            <url>/stories/die.orange.html</url>
+                            <translatedTitle>Die Orange</translatedTitle>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>The Year's Best Fantasy and Horror 15</name>
+                                   <url>http://www.amazon.com/Years-Best-Fantasy-Horror-Collection/dp/0312290691/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1241876950&amp;sr=1-1</url>
+                            </venue>
+                            <type>honorableMention</type>
+                     </recognition>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Droplet</title>
+                     <publication>
+                            <venue>
+                                   <name>F&amp;SF</name>
+                                   <url>http://www.sfsite.com/fsf/toc0207.htm</url>
+                            </venue>
+                            <date>July 2002</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Science Fiction: The Best of 2002</name>
+                                   <url>http://www.amazon.com/exec/obidos/tg/detail/-/0743458168/benjaminrosenbau</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Robots</name>
+                                   <url>http://www.amazon.com/Robots-Jack-Dann/dp/044101321X/</url>
+                            </venue>
+                            <reprint>true</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Fictionwise</name>
+                                   <url>http://www.fictionwise.com/ebooks/eBook29789.htm</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <type>paidDownload</type>
+                     </publication>
+                     <translation>
+                            <translator>Petr Kotrle</translator>
+                            <language>Czech</language>
+                            <translatedTitle>Kapka</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name> Czech version of F&amp;SF</name>
+                                          <url>http://www.fandsf.cz</url>
+                                   </venue>
+                                   <date>Feburary, 2007</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Lille Dr&amp;#x00e5;be</translatedTitle>
+                     </translation>
+                     <recognition>
+                            <venue>
+                                   <name>Locus Recommended Reading List</name>
+                                   <url>http://www.locusmag.com/2003/Issue02/RecommendedReading.html</url>
+                            </venue>
+                            <type>listed</type>
+                     </recognition>
+                     <review>
+                            <venue>
+                                   <name>Best SF</name>
+                                   <url>http://www.bestsf.net/</url>
+                            </venue>
+                            <url>http://www.bestsf.net/?p=750</url>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>SF Site</name>
+                            </venue>
+                            <url>http://www.sfsite.com/07b/fsf132.htm</url>
+                     </review>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The White City</title>
+                     <url>http://www.vestalreview.net/whitecity.htm</url>
+                     <publication>
+                            <venue>
+                                   <name>Vestal Review</name>
+                                   <url>http://www.vestalreview.net/</url>
+                            </venue>
+                            <date>April 2002</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <translation>
+                            <translator>Jukka Halme</translator>
+                            <language>Finnish</language>
+                            <url>http://www.benjaminrosenbaum.com/stories/rosenbaum-valkoinen-kaupunki.html</url>
+                            <translatedTitle>Valkoinen kaupunki</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Legolas</name>
+                                          <url>http://www.suomentolkienseura.fi/e_publications.html</url>
+                                   </venue>
+                                   <date>January 2006</date>
+                                   <reprint>false</reprint>
+                            </publication>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>Other Cities</title>
+                     <url>http://www.strangehorizons.com/Archive.alt.pl?Dept=all&amp;Stng=other+cities&amp;Sort=chron&amp;Catx=</url>
+                     <publication>
+                            <venue>
+                                   <name>Strange Horizons</name>
+                                   <url>http://www.strangehorizons.com/</url>
+                            </venue>
+                            <date>September 2001 through August 2002</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>The Jewish Street: The City and Modern Jewish Writing: An Anthology </name>
+                                   <url>https://www.createspace.com/4348018</url>
+                            </venue>
+                            <date>September 26, 2013</date>
+                            <reprint>true</reprint>
+                            <otherPubInfo> ("Ahavah" only)</otherPubInfo>
+                     </publication>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Andre byer ("Ylla's Choice" as "Yllas Valg", "New(n) Pernch" as "Ny(n) Pernch", and "Jouiselle-aux-Chantes")</translatedTitle>
+                     </translation>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Ant King: A California Fairy Tale</title>
+                     <url>http://www.benjaminrosenbaum.com/stories/the.ant.king.html</url>
+                     <publication>
+                            <venue>
+                                   <name>F&amp;SF</name>
+                                   <url>http://www.fsfmag.com/</url>
+                            </venue>
+                            <date>July 2001</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Pod Castle</name>
+                                   <url>http://podcastle.org/2008/04/29/pc005-the-ant-king-a-california-fairy-tale</url>
+                            </venue>
+                            <date>April 29, 2008</date>
+                            <reprint>true</reprint>
+                            <otherPubInfo>, read by Stephen Eley</otherPubInfo>
+                            <type>podcast</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Fictionwise</name>
+                                   <url>http://www.fictionwise.com/ebooks/eBook29648.htm</url>
+                            </venue>
+                            <reprint>true</reprint>
+                            <type>paidDownload</type>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>StarShipSofa</name>
+                                   <url>http://podcast.starshipsofa.com/podcast/StarShipSofa_Aural_Delights_No_42_Benjamin_Rosenbaum.mp3</url>
+                            </venue>
+                            <date>September 2008</date>
+                            <reprint>true</reprint>
+                            <type>podcast</type>
+                     </publication>
+                     <translation>
+                            <translator>Lise Andreasen</translator>
+                            <language>Danish</language>
+                            <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                            <translatedTitle>Myrekongen - et californisk eventyr</translatedTitle>
+                            <publication>
+                                   <venue>
+                                          <name>Start uret</name>
+                                          <url>http://www.sciencefiction.dk/udgivelser/boger/start-uret.html</url>
+                                   </venue>
+                                   <date>December 2010</date>
+                                   <reprint>false</reprint>
+                                   <otherPubInfo>, Science Fiction Cirklen</otherPubInfo>
+                            </publication>
+                     </translation>
+                     <review>
+                            <venue>
+                                   <name>Boing Boing</name>
+                            </venue>
+                            <url>http://boingboing.net/2001_07_01_archive.html#010182</url>
+                            <note>(search for "Ant King")</note>
+                     </review>
+                     <review>
+                            <venue>
+                                   <name>Best SF</name>
+                                   <url>http://www.bestsf.net</url>
+                            </venue>
+                            <url>http://www.bestsf.net/?p=718</url>
+                     </review>
+              </work>
+              <work>
+                     <type>poem</type>
+                     <title>A Gardener Betrayed By Roses</title>
+                     <url>http://www.strangehorizons.com/index.pl?Contents=/2001/20010416/gardener_betrayed.shtml</url>
+                     <publication>
+                            <venue>
+                                   <name>Strange Horizons</name>
+                                   <url>http://www.strangehorizons.com/</url>
+                            </venue>
+                            <date>April 16, 2001</date>
+                            <reprint>false</reprint>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Duck</title>
+                     <url>http://issuu.com/glassworksmagazine/docs/glassworks_spring_2012/25</url>
+                     <publication>
+                            <venue>
+                                   <name>Writer Online</name>
+                            </venue>
+                            <date>January 31, 2001</date>
+                            <reprint>false</reprint>
+                     </publication>
+                     <publication>
+                            <venue>
+                                   <name>Glassworks Magazine</name>
+                                   <url>http://www.rowanglassworks.org/</url>
+                            </venue>
+                            <date> Spring 2012</date>
+                            <reprint>true</reprint>
+                            <type>website</type>
+                     </publication>
+              </work>
+              <work>
+                     <type>story</type>
+                     <title>The Dead Letter</title>
+                     <url>http://www.sanctum.nioga.net/world/stories/</url>
+                     <publication>
+                            <venue>
+                                   <name>Sanctum</name>
+                                   <url>http://sanctum.nioga.net</url>
+                            </venue>
+                            <date>1998</date>
+                            <reprint>false</reprint>
+                            <otherPubInfo> (backstory for online game)</otherPubInfo>
+                     </publication>
+              </work>
+       </works>
+       <interview>
+              <venue>
+                     <name>Transmissions from Wintermute</name>
+                     <url>http://howilearnedtostopworryingandbethebomb.blogspot.com/2007/06/interview-with-benjamin-rosenbaum.html</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>Sci Fi Wire (on "The House Beyond Your Sky")</name>
+                     <url>http://www.scifi.com/scifiwire/index.php?category=5&amp;id=42314</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>Sci Fi Wire (on "The Ant King and Other Stories")</name>
+                     <url>http://www.scifi.com/scifiwire/index.php?id=62391</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>Fantascienza.com (in Italian)</name>
+                     <url>http://www.fantascienza.com/magazine/notizie/9627/</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>Bloggasm</name>
+                     <url>http://web.archive.org/web/20060103062029/http://www.bloggasm.com/?p=65</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>Locus Online</name>
+                     <url>http://locusmag.com/2005/Issues/10Rosenbaum.html</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>Tobias Buckell Online</name>
+                     <url>http://www.tobiasbuckell.com/2005/10/17/an-interview-with-ben-rosenbaum/</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>The Strange Horizons Podcast</name>
+                     <url>http://www.strangehorizons.com/2007/20070813/podcast-e.shtml</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>The Washington Jewish Week</name>
+                     <url>http://www.washingtonjewishweek.com/main.asp?SectionID=27&amp;SubSectionID=25&amp;ArticleID=9143&amp;TM=74297.39</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>The Washington Post</name>
+                     <url>http://www.washingtonpost.com/wp-dyn/content/article/2008/07/24/AR2008072403586.html</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>The Present Group</name>
+                     <url>http://thepresentgroup.com/info/?p=5</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>The "I Should Be Writing" Podcast</name>
+                     <url>http://murverse.com/2008/11/03/isbw-104-interview-with-benjamin-rosenbaum/</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>The Arlington Sun-Gazette</name>
+                     <url>http://www.sungazette.net/articles/2008/07/27/arlington/news/nw999.txt</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>Bibliophile Stalker</name>
+                     <url>http://charles-tan.blogspot.com/2008/06/feature-interview-with-benjamin.html</url>
+              </venue>
+       </interview>
+       <interview>
+              <venue>
+                     <name>26to50</name>
+                     <url>http://www.26to50.com/en/generation/a_rosenbaum.html</url>
+              </venue>
+       </interview>
+</author> 

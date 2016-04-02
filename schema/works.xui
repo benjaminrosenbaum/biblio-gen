@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jaxfront version=2.61;time=2009-05-13 02:36:12.417;xui=works.xui;xsd=works.xsd;nsMapping=%KEYhttp://www.jaxfront.com/xui%VAL%KEYhttp://www.w3.org/2001/XMLSchema%VALxsd%KEYhttp://www.w3.org/2001/XMLSchema-instance%VALxsi?>
+<XUI  xsi:schemaLocation="http://www.jaxfront.com/xui jar:file:/C:/Program%20Files/JAXFront-2.6/lib/jaxfront-core.jar!/xui.xsd" xmlns="http://www.jaxfront.com/xui" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+       <component xpath="/author"></component>
+       <component xpath="/works"></component>
+       <component xpath="/author/interview">
+              <style>
+                     <mode childrenView="header">
+                            <message/>
+                     </mode>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+              </style>
+       </component>
+       <component xpath="/author/interview[list]">
+              <style>
+                     <mode visible="true">
+                            <message/>
+                     </mode>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+                     <list>
+                            <serial/>
+                     </list>
+              </style>
+       </component>
+       <component xpath="/author/interviews">
+              <style>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+              </style>
+       </component>
+       <component xpath="/author/works">
+              <style>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+              </style>
+       </component>
+       <component xpath="/author/works/work">
+              <style>
+                     <mode childrenView="tab">
+                            <message/>
+                     </mode>
+              </style>
+       </component>
+       <component xpath="/author/works/work[list]">
+              <style>
+                     <mode visible="true">
+                            <message/>
+                     </mode>
+              </style>
+       </component>
+       <component xpath="/author/works/work/publication">
+              <style>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+              </style>
+       </component>
+       <component xpath="/author/works/work/publication[list]"></component>
+       <component xpath="//recognition">
+              <style>
+                     <mode visible="true">
+                            <message/>
+                     </mode>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+              </style>
+       </component>
+       <component xpath="//recognition[list]">
+              <style>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+                     <list>
+                            <serial/>
+                     </list>
+              </style>
+       </component>
+       <component xpath="/author/works/work/seller">
+              <style>
+                     <treeEntry>
+                            <occurrence showAsOptional="true">
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+              </style>
+       </component>
+       <component xpath="/author/works/work/seller[list]"></component>
+       <component xpath="/author/works/work/translation">
+              <style>
+                     <treeEntry>
+                            <occurrence>
+                                   <visibility>
+                                          <always/>
+                                   </visibility>
+                            </occurrence>
+                     </treeEntry>
+              </style>
+       </component>
+       <component xpath="/author/works/work/translation[list]"></component>
+</XUI>

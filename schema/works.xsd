@@ -1,0 +1,154 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<xsd:element name="author" type="AuthorType"/>
+
+<xsd:complexType name="AuthorType" >
+  <xsd:sequence>
+      <xsd:element name="works" type="WorksType" />
+      <xsd:element name="bio" type="xsd:string" minOccurs="0" maxOccurs="1" />
+	  <xsd:element name="interview" minOccurs="0" maxOccurs="unbounded" >
+      <xsd:complexType>
+        <xsd:sequence>
+          <xsd:element name="venue" type="VenueType" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:element>     
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="WorksType">
+  <xsd:sequence>
+      <xsd:element maxOccurs="unbounded" minOccurs="0" name="work" type="WorkType" />
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="WorkType" mixed="false">   
+	<xsd:sequence>
+      <xsd:element name="type" >    
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="story"/>
+					<xsd:enumeration value="poem"/>
+					<xsd:enumeration value="article"/>
+					<xsd:enumeration value="book"/>
+					<xsd:enumeration value="game"/>
+					<xsd:enumeration value="asEditor"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+	  </xsd:element>	  
+	  <xsd:element name="title" type="xsd:string" />
+	  <xsd:element name="description" type="xsd:string" minOccurs="0" maxOccurs="1" />    
+	  <xsd:element name="collaborators" minOccurs="0" maxOccurs="1" >
+		  <xsd:complexType>
+			<xsd:sequence>
+			  <xsd:element name="venue" type="VenueType" minOccurs="0" maxOccurs="unbounded"  />
+			</xsd:sequence>
+		  </xsd:complexType>
+	  </xsd:element>      
+	  <xsd:element name="url" type="xsd:string" minOccurs="0" maxOccurs="1" />
+      <xsd:element name="seller" minOccurs="0" maxOccurs="unbounded" >
+		  <xsd:complexType>
+			<xsd:sequence>
+			  <xsd:element name="venue" type="VenueType" />
+			</xsd:sequence>
+		  </xsd:complexType>
+      </xsd:element>  
+      <xsd:element name="publication" type="PublicationType" minOccurs="0" maxOccurs="unbounded" />
+      <xsd:element name="adaptation" type="AdaptationType" minOccurs="0" maxOccurs="unbounded" />
+      <xsd:element name="translation" type="TranslationType" minOccurs="0" maxOccurs="unbounded" />
+      <xsd:element name="recognition" type="RecognitionType" minOccurs="0" maxOccurs="unbounded" />
+      <xsd:element name="review" type="ReviewType" minOccurs="0" maxOccurs="unbounded" />
+      <xsd:element name="subcomponents" minOccurs="0" maxOccurs="unbounded" >
+		  <xsd:complexType>
+			<xsd:sequence>
+			  <xsd:element name="venue" type="VenueType" />
+			</xsd:sequence>
+		  </xsd:complexType>
+      </xsd:element>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="PublicationType" >
+  <xsd:sequence>
+    <xsd:element name="venue" type="VenueType"/>
+    <xsd:element name="date" type="xsd:string" minOccurs="0" maxOccurs="1" />
+    <xsd:element name="reprint" type="xsd:boolean" />
+    <xsd:element name="otherPubInfo" type="xsd:string" minOccurs="0" maxOccurs="1" />  
+    <xsd:element name="type" minOccurs="0" maxOccurs="1"  >    
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="website"/>
+					<xsd:enumeration value="webExhibit"/>
+					<xsd:enumeration value="podcast"/>
+					<xsd:enumeration value="paidDownload"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+	  </xsd:element>      
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="AdaptationType" >
+  <xsd:sequence>
+    <xsd:element name="adaptor" type="xs:string" minOccurs="0" maxOccurs="1" />	 
+    <xsd:element name="type" minOccurs="0" maxOccurs="1"  >    
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="film"/>
+					<xsd:enumeration value="radioPlay"/>
+					<xsd:enumeration value="stageProduction"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+	  </xsd:element>
+    <xsd:element name="url" type="xs:string" minOccurs="0" maxOccurs="1" />
+    <xsd:element name="adaptationTitle" type="xs:string" minOccurs="0" maxOccurs="1" />
+    <xsd:element name="publication" type="PublicationType" minOccurs="0" maxOccurs="unbounded" />   
+	<xsd:element name="recognition" type="RecognitionType" minOccurs="0" maxOccurs="unbounded" />	
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="TranslationType" >
+  <xsd:sequence>
+    <xsd:element name="translator" type="xs:string" minOccurs="0" maxOccurs="1" />
+    <xsd:element name="language" type="xs:string"/>
+    <xsd:element name="url" type="xs:string" minOccurs="0" maxOccurs="1" />
+    <xsd:element name="translatedTitle" type="xs:string" minOccurs="0" maxOccurs="1" />
+    <xsd:element name="publication" type="PublicationType" minOccurs="0" maxOccurs="unbounded" />  
+	<xsd:element name="recognition" type="RecognitionType" minOccurs="0" maxOccurs="unbounded" />	  
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="RecognitionType" >
+  <xsd:sequence>
+    <xsd:element name="venue" type="VenueType"/>
+    <xsd:element name="type" minOccurs="0" maxOccurs="1"  >    
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="listed"/>
+					<xsd:enumeration value="shortlisted"/>
+					<xsd:enumeration value="finalist"/>
+					<xsd:enumeration value="honorableMention"/>
+					<xsd:enumeration value="won"/>
+					<xsd:enumeration value="other"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+	  </xsd:element>	
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="ReviewType" >
+  <xsd:sequence>
+    <xsd:element name="venue" type="VenueType"/>
+    <xsd:element name="url" minOccurs="0" maxOccurs="1"  />
+    <xsd:element name="note" minOccurs="0" maxOccurs="1"  />	
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="VenueType" >
+  <xsd:sequence>
+    <xsd:element name="name" type="xsd:string" />
+    <xsd:element name="url" type="xsd:string" minOccurs="0" maxOccurs="1" />    
+  </xsd:sequence>
+</xsd:complexType>
+
+</xsd:schema>
+

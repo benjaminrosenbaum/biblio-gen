@@ -1,0 +1,11 @@
+#NLS (National Language Support) JAXFront V2.61 (03-2009-01)
+#Wed May 13 02:36:12 CEST 2009
+/author/interview%caption%formula=nodeValue(\"./venue/name\")
+/author/interview%treeEntry%formula=nodeValue(\"./venue/name\")
+/author/works%treeEntry%tooltip=
+/author/works/work%treeEntry%formula=nodeValue(\"./title\")
+/author/works/work[list]%caption%formula=./title
+/author/works/work/publication%treeEntry%formula=nodeValue(\"./venue/name\")
+/author/works/work/recognition%treeEntry%formula=nodeValue(\"./venue/name\")
+/author/works/work/seller%treeEntry%formula=nodeValue(\"./venue/name\")
+/author/works/work/translation%treeEntry%formula=nodeValue(\"./language\")
